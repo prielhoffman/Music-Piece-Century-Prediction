@@ -15,9 +15,8 @@ Relevant links for additional reading about the dataset:
 # Files in the Repository
 1) ML_DL_Assignment2.ipynb: A Jupyter Notebook containing the implementation of both regression and classification models.
 2) ML_DL_Functions2.py: A Python utility functions file to be completed. This file contains essential functions for data preprocessing, model building, and evaluation.
-3) YearPredictionMSD Dataset: The dataset file containing the music data.
-4) assignment2_submission_optimal_weights.npy: A NumPy file containing the output of the optimal weights of the model.
-5) assignment2_submission_optimal_bias.npy: A NumPy file containing the output of the optimal bias of the model.
+3) assignment2_submission_optimal_weights.npy: A NumPy file containing the output of the optimal weights of the model.
+4) assignment2_submission_optimal_bias.npy: A NumPy file containing the output of the optimal bias of the model.
 
 # Project Structure
 1) Data Loading and Preparation: Load the dataset from Google Drive, preprocess the data by extracting and normalizing features, and transform the target variable from years to centuries.

@@ -53,5 +53,3 @@ pip install pandas numpy matplotlib pytorch jupyter
 
 ## Acknowledgments
 The "YearPredictionMSD Data Set" is sourced from the UCI Machine Learning Repository.
-# Acknowledgments
-The "YearPredictionMSD Data Set" is sourced from the UCI Machine Learning Repository.

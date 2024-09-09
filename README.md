@@ -9,8 +9,8 @@ The assignment is divided into two main tasks:
 # Dataset
 The dataset used in this assignment is the "YearPredictionMSD Data Set." It contains numerous audio features from songs that are part of the Million Song Dataset. The target variable is the release year of each song, which needs to be converted into centuries for the classification task.
 Relevant links for additional reading about the dataset:
-* https://archive.ics.uci.edu/dataset/203/yearpredictionmsd
-* http://millionsongdataset.com/pages/tasks-demos/#yearrecognition
+* [YearPredictionMSD Data Set - UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/203/yearpredictionmsd)
+* [Million Song Dataset - Year Recognition Task](http://millionsongdataset.com/pages/tasks-demos/#yearrecognition)
 
 # Files in the Repository
 1) ML_DL_Assignment2.ipynb: A Jupyter Notebook containing the implementation of both regression and classification models.
